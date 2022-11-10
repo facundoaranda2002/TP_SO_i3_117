@@ -22,7 +22,8 @@ Responde GAMMA: (Francisco Allende)
 
 
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
-Si, si se actualizan las respetivas branches quedan actualizadas
+No, la rama creada por GAMMA (Allende) no tiene el archivo beta.txt y tampoco las respuestas a las preguntas del punto 9
+y la rama creada por Beta (Aranda) no tiene las respuestas a las preguntas del punto 9.
 
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 Los problemas al hacer el Merge fueron traer una rama que no estaba local. En mi caso tenia main y allende, me faltaba aranda
