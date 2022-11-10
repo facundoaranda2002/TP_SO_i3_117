@@ -1,0 +1,11 @@
+1) Queda actualizado con los archivos de todas las ramas
+2) Si
+3)
+git pull
+git checkout allende
+git pull
+git checkout main
+git merge allende
+git add .
+git commit -m "merge"
+git push
