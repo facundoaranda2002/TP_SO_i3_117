@@ -9,3 +9,15 @@ git merge allende
 git add .
 git commit -m "merge"
 git push
+
+Preguntas Gamma (Francisco Allende)
+
+D) Si, si se actualizan las respetivas branches quedan actualizadas
+E) Los problemas al hacer el Merge fueron traer una rama que no estaba local. En mi caso tenia main y allende, me faltaba aranda
+F) Comandos del punto 7:
+git branch --all //con esto comprobamos que la rama estaba en github pero no local
+git checkout aranda //la rama que faltaba
+git branch aranda
+git add .
+git comit -m "subo punto 7"
+git push
