@@ -1,3 +1,7 @@
+Nombre Gamma: 	Francisco Allende
+IP: 			186.22.237.23
+Hora: 		16:46
+
 Alfa:
 Juan Ignacio Barraza
 190.189.76.147
